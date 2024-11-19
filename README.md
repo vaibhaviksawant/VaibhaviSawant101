@@ -7,7 +7,7 @@
 
 - 🧠 I am an **open-source enthusiast** , possessing **robust problem-solving abilities**. I **work effectively within teams**, maintain a **persistent attitude**, exhibit a **keenness for learning**, and am **highly dedicated**
 
-- 🌱 I have expertise in the following  - **Backend**: Node.js, Epress.js, JavaScript, Java, SpringBoot  - **Frontend**: HTML/CSS, React.js, Bootstrap, Tailwind  - **Databases**: MongoDB, MySQL  - **Others**: Git, MVC, REST, DSA, ML, DL
+- 🌱 I have expertise in the following  - **Backend**: Node.js, Epress.js, JavaScript, Java, SpringBoot  - **Frontend**: HTML/CSS, React.js - **Databases**: MongoDB, MySQL  - **Others**: Git, MVC, REST, DSA, ML, DL
 
 - 👯 I’m looking forward to **be a part of various interesting projects.**
 
